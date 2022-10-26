@@ -1,3 +1,4 @@
 <html> 
 <head>Ejercicio 6</head>
+<body><header><h1>Hola Santi</p></header></body>
 </html>
