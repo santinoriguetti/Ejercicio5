@@ -1,1 +1,7 @@
-<html> <head> texto 2 </head> </html>
+<html> <head>
+ texto 2 
+</head> 
+
+<body><p>Hola</p></body>
+
+</html>
